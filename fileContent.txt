@@ -1,14 +1,18 @@
-Last Updated: 05/02/2019 5:32:29 PM
-Team Finalized: 3563  /  4120
+Last Updated: 05/02/2019 5:52:30 PM
+
 
-Delta: -557
+Team Finalized: 3598  /  4120
+
+Delta: -522
+
+Attendance: 52 / 54	2 Attrition
 
 /*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
 
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-Finalized: 68 / 60	Delta: 8
+Finalized: 71 / 60	Delta: 11
 __________________________________________________
 
 tricia.a.charles
@@ -34,7 +38,7 @@ Finalized: 15 / 110	Delta: -95
 __________________________________________________
 
 j.shepherd
-Finalized: 44 / 110	Delta: -66
+Finalized: 47 / 110	Delta: -63
 __________________________________________________
 
 janet.brookshire
@@ -72,7 +76,7 @@ __________________________________________________
 ****************************NewYork****************************
 
 amanda.hotchkiss
-Finalized: 58 / 40	Delta: 18
+Finalized: 59 / 40	Delta: 19
 __________________________________________________
 
 ashley.welch
@@ -84,19 +88,19 @@ Finalized: 96 / 60	Delta: 36
 __________________________________________________
 
 britney.l.anderson
-Finalized: 39 / 40	Delta: -1
+Finalized: 40 / 40	Delta: 0
 __________________________________________________
 
 c.l.davis
-Finalized: 106 / 110	Delta: -4
+Finalized: 109 / 110	Delta: -1
 __________________________________________________
 
 claire.robertson
-Finalized: 113 / 110	Delta: 3
+Finalized: 120 / 110	Delta: 10
 __________________________________________________
 
 d.may
-Finalized: 56 / 60	Delta: -4
+Finalized: 58 / 60	Delta: -2
 __________________________________________________
 
 deontae.moss
@@ -120,7 +124,7 @@ Finalized: 146 / 110	Delta: 36
 __________________________________________________
 
 luis.r.figueroa
-Finalized: 46 / 40	Delta: 6
+Finalized: 47 / 40	Delta: 7
 __________________________________________________
 
 rachel.payne
@@ -162,7 +166,7 @@ Finalized: 27 / 0	Delta: 27
 __________________________________________________
 
 elizabeth.weaver
-Finalized: 35 / 110	Delta: -75
+Finalized: 37 / 110	Delta: -73
 __________________________________________________
 
 heather.buckner
@@ -174,7 +178,7 @@ Finalized: 50 / 0	Delta: 50
 __________________________________________________
 
 kacey.b.hess
-Finalized: 28 / 110	Delta: -82
+Finalized: 31 / 110	Delta: -79
 __________________________________________________
 
 kathy.tsai
@@ -190,7 +194,7 @@ Finalized: 33 / 110	Delta: -77
 __________________________________________________
 
 melissa.usry
-Finalized: 93 / 110	Delta: -17
+Finalized: 102 / 110	Delta: -8
 __________________________________________________
 
 oliver.bebber
