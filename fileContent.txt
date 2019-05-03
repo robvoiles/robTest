@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Last Updated: 05/02/2019 10:32:08 PM
 
 
@@ -6,7 +6,7 @@ Team Finalized: 3613  /  4120
 
 Delta: -507
 
-Attendance: 52 / 54	2 Attrition
+Attendance: 52 / 54	- 2 Attrition
 =======
 Last Updated: 05/02/2019 4:48:39 AM
 Team Finalized: 3477  /  4120
