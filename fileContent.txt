@@ -1,28 +1,28 @@
-Last Updated: 05/03/2019 1:02:03 PM
+Last Updated: 05/03/2019 1:16:35 PM
 
 
-Team Finalized: 2188  /  4120
+Team Finalized: 2238  /  4120
 
-Delta: -1932
+Delta: -1882
 
-Attendance: 49 / 54	5 Absent
+Attendance: 49 / 53	4 Absent
 
 /*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
 
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-Finalized: 7 / 60	Delta: -53
+Finalized: 9 / 60	Delta: -51
 __________________________________________________
 
 tricia.a.charles
-Finalized: 85 / 60	Delta: 25
+Finalized: 87 / 60	Delta: 27
 __________________________________________________
 
 ****************************Louisiana****************************
 
 amber.basgall
-Finalized: 38 / 110	Delta: -72
+Finalized: 43 / 110	Delta: -67
 __________________________________________________
 
 cairra.farr
@@ -34,7 +34,7 @@ Finalized: 47 / 110	Delta: -63
 __________________________________________________
 
 geneva.blevins
-Finalized: 29 / 110	Delta: -81
+Finalized: 32 / 110	Delta: -78
 __________________________________________________
 
 j.shepherd
@@ -66,11 +66,11 @@ Finalized: 23 / 110	Delta: -87
 __________________________________________________
 
 payton.cleveland
-Finalized: 26 / 110	Delta: -84
+Finalized: 27 / 110	Delta: -83
 __________________________________________________
 
 robin.croft
-Finalized: 35 / 110	Delta: -75
+Finalized: 36 / 110	Delta: -74
 __________________________________________________
 
 ****************************NewYork****************************
@@ -80,7 +80,7 @@ Finalized: 36 / 40	Delta: -4
 __________________________________________________
 
 ashley.welch
-Finalized: 157 / 110	Delta: 47
+Finalized: 160 / 110	Delta: 50
 __________________________________________________
 
 brianna.r.weiand
@@ -96,15 +96,11 @@ ABSENT
 __________________________________________________
 
 claire.robertson
-Finalized: 73 / 110	Delta: -37
+Finalized: 76 / 110	Delta: -34
 __________________________________________________
 
 d.may
-Finalized: 30 / 60	Delta: -30
-__________________________________________________
-
-deontae.moss
-ABSENT
+Finalized: 32 / 60	Delta: -28
 __________________________________________________
 
 e.h.dasilveira
@@ -120,7 +116,7 @@ Finalized: 52 / 40	Delta: 12
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 152 / 110	Delta: 42
+Finalized: 158 / 110	Delta: 48
 __________________________________________________
 
 luis.r.figueroa
@@ -132,7 +128,7 @@ Finalized: 69 / 60	Delta: 9
 __________________________________________________
 
 sharina.long
-Finalized: 57 / 110	Delta: -53
+Finalized: 59 / 110	Delta: -51
 __________________________________________________
 
 tosha.n.herron
@@ -140,7 +136,7 @@ Finalized: 61 / 60	Delta: 1
 __________________________________________________
 
 yvonne.mcgriff
-Finalized: 117 / 110	Delta: 7
+Finalized: 123 / 110	Delta: 13
 __________________________________________________
 
 ****************************Tennessee****************************
@@ -150,7 +146,7 @@ Finalized: 27 / 0	Delta: 27
 __________________________________________________
 
 angelia.c.clabough
-Finalized: 53 / 60	Delta: -7
+Finalized: 55 / 60	Delta: -5
 __________________________________________________
 
 connie.yu
@@ -162,7 +158,7 @@ Finalized: 25 / 0	Delta: 25
 __________________________________________________
 
 delisa.battle
-Finalized: 24 / 0	Delta: 24
+Finalized: 26 / 0	Delta: 26
 __________________________________________________
 
 elizabeth.weaver
@@ -186,7 +182,7 @@ Finalized: 27 / 0	Delta: 27
 __________________________________________________
 
 kirsten.kidd
-Finalized: 29 / 0	Delta: 29
+Finalized: 30 / 0	Delta: 30
 __________________________________________________
 
 makenzie.crabtree
@@ -194,7 +190,7 @@ Finalized: 20 / 110	Delta: -90
 __________________________________________________
 
 melissa.usry
-Finalized: 38 / 110	Delta: -72
+Finalized: 39 / 110	Delta: -71
 __________________________________________________
 
 oliver.bebber
@@ -202,7 +198,7 @@ Finalized: 29 / 0	Delta: 29
 __________________________________________________
 
 r.tropia
-Finalized: 28 / 110	Delta: -82
+Finalized: 30 / 110	Delta: -80
 __________________________________________________
 
 russell.sparks
@@ -220,17 +216,17 @@ __________________________________________________
 ****************************Washington****************************
 
 a.a.weaver
-Finalized: 32 / 60	Delta: -28
+Finalized: 33 / 60	Delta: -27
 __________________________________________________
 
 monique.reynolds
-Finalized: 31 / 110	Delta: -79
+Finalized: 32 / 110	Delta: -78
 __________________________________________________
 
 rebecca.j.garniss
-Finalized: 55 / 40	Delta: 15
+Finalized: 58 / 40	Delta: 18
 __________________________________________________
 
 terijo.fagan
-Finalized: 41 / 60	Delta: -19
+Finalized: 42 / 60	Delta: -18
 __________________________________________________
