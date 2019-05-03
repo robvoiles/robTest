@@ -1,9 +1,9 @@
-Last Updated: 05/03/2019 5:32:09 PM
+Last Updated: 05/03/2019 5:46:48 PM
 
 
-Team Finalized: 3544  /  4120
+Team Finalized: 3557  /  4120
 
-Delta: -576
+Delta: -563
 
 Attendance: 49 / 53	4 Absent
 
@@ -12,7 +12,7 @@ Attendance: 49 / 53	4 Absent
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-Finalized: 33 / 60	Delta: -27
+Finalized: 35 / 60	Delta: -25
 __________________________________________________
 
 tricia.a.charles
@@ -174,7 +174,7 @@ Finalized: 50 / 0	Delta: 50
 __________________________________________________
 
 kacey.b.hess
-Finalized: 48 / 110	Delta: -62
+Finalized: 55 / 110	Delta: -55
 __________________________________________________
 
 kathy.tsai
@@ -190,7 +190,7 @@ Finalized: 35 / 110	Delta: -75
 __________________________________________________
 
 melissa.usry
-Finalized: 96 / 110	Delta: -14
+Finalized: 100 / 110	Delta: -10
 __________________________________________________
 
 oliver.bebber
