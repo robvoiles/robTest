@@ -1,67 +1,48 @@
-
-Last Updated: 05/02/2019 10:32:08 PM
+Last Updated: 05/03/2019 09:02:09 AM
 
 
-Team Finalized: 3613  /  4120
+Team Finalized: 387  /  4120
 
-Delta: -507
+Delta: -3733
 
-Attendance: 52 / 54	- 2 Attrition
-=======
-Last Updated: 05/02/2019 4:48:39 AM
-Team Finalized: 3477  /  4120
-
-Delta: -643
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Attendance: 49 / 54	5 Attrition
 
 /*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
 
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-<<<<<<< HEAD
-Finalized: 73 / 60	Delta: 13
-=======
-Finalized: 64 / 60	Delta: 4
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 0 / 60	Delta: -60
 __________________________________________________
 
 tricia.a.charles
-Finalized: 89 / 60	Delta: 29
+Finalized: 20 / 60	Delta: -40
 __________________________________________________
 
 ****************************Louisiana****************************
 
 amber.basgall
-Finalized: 84 / 110	Delta: -26
+Finalized: 10 / 110	Delta: -100
 __________________________________________________
 
 cairra.farr
-<<<<<<< HEAD
-Finalized: 82 / 110	Delta: -28
-=======
-Finalized: 81 / 110	Delta: -29
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 9 / 110	Delta: -101
 __________________________________________________
 
 deborah.aquino
-Finalized: 73 / 110	Delta: -37
+Finalized: 6 / 110	Delta: -104
 __________________________________________________
 
 geneva.blevins
-Finalized: 15 / 110	Delta: -95
+Finalized: 4 / 110	Delta: -106
 __________________________________________________
 
 j.shepherd
-<<<<<<< HEAD
-Finalized: 48 / 110	Delta: -62
-=======
-Finalized: 39 / 110	Delta: -71
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+ABSENT
 __________________________________________________
 
 janet.brookshire
-Finalized: 90 / 110	Delta: -20
+Finalized: 14 / 110	Delta: -96
 __________________________________________________
 
 jill.dyer
@@ -69,255 +50,187 @@ ABSENT
 __________________________________________________
 
 kathy.ferguson
-<<<<<<< HEAD
-Finalized: 64 / 110	Delta: -46
-=======
-Finalized: 58 / 110	Delta: -52
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 11 / 110	Delta: -99
 __________________________________________________
 
 l.skiles
-Finalized: 120 / 60	Delta: 60
+Finalized: 18 / 60	Delta: -42
 __________________________________________________
 
 luke.wagner
-Finalized: 64 / 110	Delta: -46
+Finalized: 4 / 110	Delta: -106
 __________________________________________________
 
 nathanial.c.newman
-Finalized: 53 / 110	Delta: -57
+Finalized: 5 / 110	Delta: -105
 __________________________________________________
 
 payton.cleveland
-Finalized: 50 / 110	Delta: -60
+Finalized: 1 / 110	Delta: -109
 __________________________________________________
 
 robin.croft
-Finalized: 47 / 110	Delta: -63
+Finalized: 10 / 110	Delta: -100
 __________________________________________________
 
 ****************************NewYork****************************
 
 amanda.hotchkiss
-<<<<<<< HEAD
-Finalized: 59 / 40	Delta: 19
-=======
-Finalized: 54 / 40	Delta: 14
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 2 / 40	Delta: -38
 __________________________________________________
 
 ashley.welch
-Finalized: 166 / 110	Delta: 56
+Finalized: 40 / 110	Delta: -70
 __________________________________________________
 
 brianna.r.weiand
-Finalized: 96 / 60	Delta: 36
+Finalized: 11 / 60	Delta: -49
 __________________________________________________
 
 britney.l.anderson
-<<<<<<< HEAD
-Finalized: 40 / 40	Delta: 0
+Finalized: 1 / 40	Delta: -39
 __________________________________________________
 
 c.l.davis
-Finalized: 109 / 110	Delta: -1
+ABSENT
 __________________________________________________
 
 claire.robertson
-Finalized: 125 / 110	Delta: 15
+Finalized: 17 / 110	Delta: -93
 __________________________________________________
 
 d.may
-Finalized: 60 / 60	Delta: 0
-=======
-Finalized: 37 / 40	Delta: -3
-__________________________________________________
-
-c.l.davis
-Finalized: 96 / 110	Delta: -14
-__________________________________________________
-
-claire.robertson
-Finalized: 113 / 110	Delta: 3
-__________________________________________________
-
-d.may
-Finalized: 55 / 60	Delta: -5
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 4 / 60	Delta: -56
 __________________________________________________
 
 deontae.moss
-Finalized: 2 / 110	Delta: -108
+ABSENT
 __________________________________________________
 
 e.h.dasilveira
-<<<<<<< HEAD
-Finalized: 53 / 60	Delta: -7
+Finalized: 4 / 60	Delta: -56
 __________________________________________________
 
 heather.baker.flatt
-Finalized: 140 / 110	Delta: 30
-=======
-Finalized: 50 / 60	Delta: -10
-__________________________________________________
-
-heather.baker.flatt
-Finalized: 134 / 110	Delta: 24
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+ABSENT
 __________________________________________________
 
 kelly.crotty
-Finalized: 88 / 40	Delta: 48
+Finalized: 12 / 40	Delta: -28
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 146 / 110	Delta: 36
+Finalized: 50 / 110	Delta: -60
 __________________________________________________
 
 luis.r.figueroa
-<<<<<<< HEAD
-Finalized: 47 / 40	Delta: 7
-=======
-Finalized: 45 / 40	Delta: 5
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 2 / 40	Delta: -38
 __________________________________________________
 
 rachel.payne
-Finalized: 108 / 60	Delta: 48
+Finalized: 0 / 60	Delta: -60
 __________________________________________________
 
 sharina.long
-Finalized: 98 / 110	Delta: -12
+Finalized: 4 / 110	Delta: -106
 __________________________________________________
 
 tosha.n.herron
-Finalized: 79 / 60	Delta: 19
+Finalized: 4 / 60	Delta: -56
 __________________________________________________
 
 yvonne.mcgriff
-<<<<<<< HEAD
-Finalized: 169 / 110	Delta: 59
-=======
-Finalized: 155 / 110	Delta: 45
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 30 / 110	Delta: -80
 __________________________________________________
 
 ****************************Tennessee****************************
 
 anand.jose
-<<<<<<< HEAD
-Finalized: 50 / 0	Delta: 50
-=======
-Finalized: 48 / 0	Delta: 48
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 1 / 0	Delta: 1
 __________________________________________________
 
 angelia.c.clabough
-ABSENT
+Finalized: 20 / 60	Delta: -40
 __________________________________________________
 
 connie.yu
-<<<<<<< HEAD
-Finalized: 37 / 0	Delta: 37
-=======
-Finalized: 35 / 0	Delta: 35
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 0 / 0	Delta: 0
 __________________________________________________
 
 daniel.worley
-Finalized: 50 / 0	Delta: 50
+Finalized: 4 / 0	Delta: 4
 __________________________________________________
 
 delisa.battle
-Finalized: 27 / 0	Delta: 27
+Finalized: 2 / 0	Delta: 2
 __________________________________________________
 
 elizabeth.weaver
-<<<<<<< HEAD
-Finalized: 38 / 110	Delta: -72
+Finalized: 11 / 110	Delta: -99
 __________________________________________________
 
 heather.buckner
-Finalized: 50 / 110	Delta: -60
-=======
-Finalized: 33 / 110	Delta: -77
-__________________________________________________
-
-heather.buckner
-Finalized: 45 / 110	Delta: -65
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 2 / 110	Delta: -108
 __________________________________________________
 
 janaysha.jones
-Finalized: 50 / 0	Delta: 50
+Finalized: 1 / 0	Delta: 1
 __________________________________________________
 
 kacey.b.hess
-<<<<<<< HEAD
-Finalized: 32 / 110	Delta: -78
-=======
-Finalized: 23 / 110	Delta: -87
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 4 / 110	Delta: -106
 __________________________________________________
 
 kathy.tsai
-Finalized: 50 / 0	Delta: 50
+Finalized: 0 / 0	Delta: 0
 __________________________________________________
 
 kirsten.kidd
-Finalized: 38 / 0	Delta: 38
+Finalized: 1 / 0	Delta: 1
 __________________________________________________
 
 makenzie.crabtree
-Finalized: 33 / 110	Delta: -77
+Finalized: 5 / 110	Delta: -105
 __________________________________________________
 
 melissa.usry
-<<<<<<< HEAD
-Finalized: 105 / 110	Delta: -5
-=======
-Finalized: 82 / 110	Delta: -28
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 2 / 110	Delta: -108
 __________________________________________________
 
 oliver.bebber
-Finalized: 50 / 0	Delta: 50
+Finalized: 4 / 0	Delta: 4
 __________________________________________________
 
 r.tropia
-Finalized: 31 / 110	Delta: -79
+Finalized: 3 / 110	Delta: -107
 __________________________________________________
 
 russell.sparks
-Finalized: 50 / 0	Delta: 50
+Finalized: 1 / 0	Delta: 1
 __________________________________________________
 
 samuel.n.wynn
-Finalized: 62 / 80	Delta: -18
+Finalized: 2 / 80	Delta: -78
 __________________________________________________
 
 tyrisha.lyons
-Finalized: 50 / 0	Delta: 50
+Finalized: 0 / 0	Delta: 0
 __________________________________________________
 
 ****************************Washington****************************
 
 a.a.weaver
-Finalized: 39 / 60	Delta: -21
+Finalized: 3 / 60	Delta: -57
 __________________________________________________
 
 monique.reynolds
-Finalized: 44 / 110	Delta: -66
+Finalized: 1 / 110	Delta: -109
 __________________________________________________
 
 rebecca.j.garniss
-<<<<<<< HEAD
-Finalized: 86 / 40	Delta: 46
-=======
-Finalized: 85 / 40	Delta: 45
->>>>>>> f04219434348d40a0ef74b0bb3d3d904224e7e5c
+Finalized: 22 / 40	Delta: -18
 __________________________________________________
 
 terijo.fagan
-Finalized: 64 / 60	Delta: 4
+Finalized: 3 / 60	Delta: -57
 __________________________________________________
