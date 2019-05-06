@@ -1,9 +1,9 @@
-Last Updated: 05/06/2019 5:49:19 PM
+Last Updated: 05/06/2019 6:04:28 PM
 
 
-Team Finalized: 3361  /  4120
+Team Finalized: 3370  /  4120
 
-Delta: -759
+Delta: -750
 
 Attendance: 46 / 53	7 Absent
 
@@ -92,7 +92,7 @@ Finalized: 49 / 40	Delta: 9
 __________________________________________________
 
 c.l.davis
-Finalized: 130 / 110	Delta: 20
+Finalized: 131 / 110	Delta: 21
 __________________________________________________
 
 claire.robertson
@@ -100,7 +100,7 @@ Finalized: 135 / 110	Delta: 25
 __________________________________________________
 
 d.may
-Finalized: 65 / 60	Delta: 5
+Finalized: 66 / 60	Delta: 6
 __________________________________________________
 
 e.h.dasilveira
@@ -116,7 +116,7 @@ Finalized: 46 / 40	Delta: 6
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 178 / 110	Delta: 68
+Finalized: 181 / 110	Delta: 71
 __________________________________________________
 
 luis.r.figueroa
@@ -174,7 +174,7 @@ Finalized: 50 / 0	Delta: 50
 __________________________________________________
 
 kacey.b.hess
-Finalized: 55 / 110	Delta: -55
+Finalized: 57 / 110	Delta: -53
 __________________________________________________
 
 kathy.tsai
@@ -202,7 +202,7 @@ Finalized: 46 / 110	Delta: -64
 __________________________________________________
 
 russell.sparks
-Finalized: 73 / 0	Delta: 73
+Finalized: 75 / 0	Delta: 75
 __________________________________________________
 
 samuel.n.wynn
