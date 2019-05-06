@@ -1,9 +1,9 @@
-Last Updated: 05/06/2019 5:34:36 PM
+Last Updated: 05/06/2019 5:49:19 PM
 
 
-Team Finalized: 3350  /  4120
+Team Finalized: 3361  /  4120
 
-Delta: -770
+Delta: -759
 
 Attendance: 46 / 53	7 Absent
 
@@ -30,7 +30,7 @@ Finalized: 70 / 110	Delta: -40
 __________________________________________________
 
 deborah.aquino
-Finalized: 63 / 110	Delta: -47
+Finalized: 64 / 110	Delta: -46
 __________________________________________________
 
 geneva.blevins
@@ -116,7 +116,7 @@ Finalized: 46 / 40	Delta: 6
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 175 / 110	Delta: 65
+Finalized: 178 / 110	Delta: 68
 __________________________________________________
 
 luis.r.figueroa
@@ -174,7 +174,7 @@ Finalized: 50 / 0	Delta: 50
 __________________________________________________
 
 kacey.b.hess
-Finalized: 54 / 110	Delta: -56
+Finalized: 55 / 110	Delta: -55
 __________________________________________________
 
 kathy.tsai
@@ -202,7 +202,7 @@ Finalized: 46 / 110	Delta: -64
 __________________________________________________
 
 russell.sparks
-Finalized: 69 / 0	Delta: 69
+Finalized: 73 / 0	Delta: 73
 __________________________________________________
 
 samuel.n.wynn
