@@ -1,4 +1,4 @@
-Last Updated: 05/07/2019 7:31:53 PM
+Last Updated: 05/07/2019 7:46:43 PM
 
 
 Team Finalized: 3065  /  4120
@@ -150,7 +150,7 @@ Finalized: 42 / 60	Delta: -18
 __________________________________________________
 
 connie.yu
-Finalized: 35 / 0	Delta: 35
+Finalized: 0 / 0	Delta: 0
 __________________________________________________
 
 daniel.worley
