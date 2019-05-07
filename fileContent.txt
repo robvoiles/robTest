@@ -1,9 +1,9 @@
-Last Updated: 05/07/2019 6:01:56 PM
+Last Updated: 05/07/2019 6:17:00 PM
 
 
-Team Finalized: 3063  /  4120
+Team Finalized: 3065  /  4120
 
-Delta: -1057
+Delta: -1055
 
 Attendance: 49 / 53	4 Absent
 
@@ -30,7 +30,7 @@ Finalized: 83 / 110	Delta: -27
 __________________________________________________
 
 deborah.aquino
-Finalized: 83 / 110	Delta: -27
+Finalized: 84 / 110	Delta: -26
 __________________________________________________
 
 geneva.blevins
@@ -96,7 +96,7 @@ Finalized: 71 / 110	Delta: -39
 __________________________________________________
 
 claire.robertson
-Finalized: 102 / 110	Delta: -8
+Finalized: 103 / 110	Delta: -7
 __________________________________________________
 
 d.may
