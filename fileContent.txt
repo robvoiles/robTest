@@ -1,9 +1,9 @@
-Last Updated: 05/07/2019 5:46:54 PM
+Last Updated: 05/07/2019 6:01:56 PM
 
 
-Team Finalized: 3030  /  4120
+Team Finalized: 3063  /  4120
 
-Delta: -1090
+Delta: -1057
 
 Attendance: 49 / 53	4 Absent
 
@@ -30,7 +30,7 @@ Finalized: 83 / 110	Delta: -27
 __________________________________________________
 
 deborah.aquino
-Finalized: 78 / 110	Delta: -32
+Finalized: 83 / 110	Delta: -27
 __________________________________________________
 
 geneva.blevins
@@ -76,7 +76,7 @@ __________________________________________________
 ****************************NewYork****************************
 
 amanda.hotchkiss
-Finalized: 34 / 40	Delta: -6
+Finalized: 42 / 40	Delta: 2
 __________________________________________________
 
 ashley.welch
@@ -96,7 +96,7 @@ Finalized: 71 / 110	Delta: -39
 __________________________________________________
 
 claire.robertson
-Finalized: 98 / 110	Delta: -12
+Finalized: 102 / 110	Delta: -8
 __________________________________________________
 
 d.may
@@ -116,7 +116,7 @@ Finalized: 44 / 40	Delta: 4
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 138 / 110	Delta: 28
+Finalized: 145 / 110	Delta: 35
 __________________________________________________
 
 luis.r.figueroa
@@ -174,7 +174,7 @@ Finalized: 50 / 0	Delta: 50
 __________________________________________________
 
 kacey.b.hess
-Finalized: 43 / 110	Delta: -67
+Finalized: 46 / 110	Delta: -64
 __________________________________________________
 
 kathy.tsai
@@ -190,7 +190,7 @@ Finalized: 33 / 110	Delta: -77
 __________________________________________________
 
 melissa.usry
-Finalized: 80 / 110	Delta: -30
+Finalized: 84 / 110	Delta: -26
 __________________________________________________
 
 oliver.bebber
@@ -202,7 +202,7 @@ Finalized: 46 / 110	Delta: -64
 __________________________________________________
 
 russell.sparks
-Finalized: 29 / 0	Delta: 29
+Finalized: 31 / 0	Delta: 31
 __________________________________________________
 
 samuel.n.wynn
