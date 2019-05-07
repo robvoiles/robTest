@@ -1,9 +1,9 @@
-Last Updated: 05/07/2019 3:02:05 PM
+Last Updated: 05/07/2019 3:16:52 PM
 
 
-Team Finalized: 2341  /  4120
+Team Finalized: 2428  /  4120
 
-Delta: -1779
+Delta: -1692
 
 Attendance: 49 / 53	4 Absent
 
@@ -16,17 +16,17 @@ Finalized: 21 / 60	Delta: -39
 __________________________________________________
 
 tricia.a.charles
-Finalized: 66 / 60	Delta: 6
+Finalized: 67 / 60	Delta: 7
 __________________________________________________
 
 ****************************Louisiana****************************
 
 amber.basgall
-Finalized: 100 / 110	Delta: -10
+Finalized: 104 / 110	Delta: -6
 __________________________________________________
 
 cairra.farr
-Finalized: 73 / 110	Delta: -37
+Finalized: 77 / 110	Delta: -33
 __________________________________________________
 
 deborah.aquino
@@ -42,23 +42,23 @@ ABSENT
 __________________________________________________
 
 janet.brookshire
-Finalized: 38 / 110	Delta: -72
+Finalized: 40 / 110	Delta: -70
 __________________________________________________
 
 jill.dyer
-Finalized: 95 / 60	Delta: 35
+Finalized: 101 / 60	Delta: 41
 __________________________________________________
 
 kathy.ferguson
-Finalized: 17 / 110	Delta: -93
+Finalized: 19 / 110	Delta: -91
 __________________________________________________
 
 l.skiles
-Finalized: 84 / 60	Delta: 24
+Finalized: 90 / 60	Delta: 30
 __________________________________________________
 
 luke.wagner
-Finalized: 36 / 110	Delta: -74
+Finalized: 37 / 110	Delta: -73
 __________________________________________________
 
 nathanial.c.newman
@@ -66,11 +66,11 @@ ABSENT
 __________________________________________________
 
 payton.cleveland
-Finalized: 49 / 110	Delta: -61
+Finalized: 52 / 110	Delta: -58
 __________________________________________________
 
 robin.croft
-Finalized: 36 / 110	Delta: -74
+Finalized: 37 / 110	Delta: -73
 __________________________________________________
 
 ****************************NewYork****************************
@@ -80,23 +80,23 @@ Finalized: 28 / 40	Delta: -12
 __________________________________________________
 
 ashley.welch
-Finalized: 104 / 110	Delta: -6
+Finalized: 108 / 110	Delta: -2
 __________________________________________________
 
 brianna.r.weiand
-Finalized: 72 / 60	Delta: 12
+Finalized: 78 / 60	Delta: 18
 __________________________________________________
 
 britney.l.anderson
-Finalized: 22 / 40	Delta: -18
+Finalized: 23 / 40	Delta: -17
 __________________________________________________
 
 c.l.davis
-Finalized: 50 / 110	Delta: -60
+Finalized: 53 / 110	Delta: -57
 __________________________________________________
 
 claire.robertson
-Finalized: 68 / 110	Delta: -42
+Finalized: 71 / 110	Delta: -39
 __________________________________________________
 
 d.may
@@ -108,7 +108,7 @@ Finalized: 27 / 60	Delta: -33
 __________________________________________________
 
 heather.baker.flatt
-Finalized: 75 / 110	Delta: -35
+Finalized: 79 / 110	Delta: -31
 __________________________________________________
 
 kelly.crotty
@@ -116,11 +116,11 @@ Finalized: 40 / 40	Delta: 0
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 91 / 110	Delta: -19
+Finalized: 96 / 110	Delta: -14
 __________________________________________________
 
 luis.r.figueroa
-Finalized: 20 / 40	Delta: -20
+Finalized: 22 / 40	Delta: -18
 __________________________________________________
 
 rachel.payne
@@ -128,7 +128,7 @@ Finalized: 37 / 60	Delta: -23
 __________________________________________________
 
 sharina.long
-Finalized: 42 / 110	Delta: -68
+Finalized: 44 / 110	Delta: -66
 __________________________________________________
 
 tosha.n.herron
@@ -136,7 +136,7 @@ Finalized: 81 / 60	Delta: 21
 __________________________________________________
 
 yvonne.mcgriff
-Finalized: 52 / 110	Delta: -58
+Finalized: 53 / 110	Delta: -57
 __________________________________________________
 
 ****************************Tennessee****************************
@@ -162,23 +162,23 @@ Finalized: 31 / 0	Delta: 31
 __________________________________________________
 
 elizabeth.weaver
-Finalized: 24 / 110	Delta: -86
+Finalized: 25 / 110	Delta: -85
 __________________________________________________
 
 heather.buckner
-Finalized: 33 / 110	Delta: -77
+Finalized: 37 / 110	Delta: -73
 __________________________________________________
 
 janaysha.jones
-Finalized: 40 / 0	Delta: 40
+Finalized: 42 / 0	Delta: 42
 __________________________________________________
 
 kacey.b.hess
-Finalized: 33 / 110	Delta: -77
+Finalized: 34 / 110	Delta: -76
 __________________________________________________
 
 kathy.tsai
-Finalized: 26 / 0	Delta: 26
+Finalized: 27 / 0	Delta: 27
 __________________________________________________
 
 kirsten.kidd
@@ -186,7 +186,7 @@ Finalized: 33 / 0	Delta: 33
 __________________________________________________
 
 makenzie.crabtree
-Finalized: 29 / 110	Delta: -81
+Finalized: 30 / 110	Delta: -80
 __________________________________________________
 
 melissa.usry
@@ -194,29 +194,29 @@ Finalized: 64 / 110	Delta: -46
 __________________________________________________
 
 oliver.bebber
-Finalized: 44 / 0	Delta: 44
+Finalized: 45 / 0	Delta: 45
 __________________________________________________
 
 r.tropia
-Finalized: 42 / 110	Delta: -68
+Finalized: 43 / 110	Delta: -67
 __________________________________________________
 
 russell.sparks
-Finalized: 16 / 0	Delta: 16
+Finalized: 18 / 0	Delta: 18
 __________________________________________________
 
 samuel.n.wynn
-Finalized: 54 / 80	Delta: -26
+Finalized: 57 / 80	Delta: -23
 __________________________________________________
 
 tyrisha.lyons
-Finalized: 32 / 0	Delta: 32
+Finalized: 33 / 0	Delta: 33
 __________________________________________________
 
 ****************************Washington****************************
 
 a.a.weaver
-Finalized: 41 / 60	Delta: -19
+Finalized: 38 / 60	Delta: -22
 __________________________________________________
 
 monique.reynolds
@@ -224,7 +224,7 @@ ABSENT
 __________________________________________________
 
 rebecca.j.garniss
-Finalized: 56 / 40	Delta: 16
+Finalized: 58 / 40	Delta: 18
 __________________________________________________
 
 terijo.fagan
