@@ -1,9 +1,9 @@
-Last Updated: 05/08/2019 5:46:38 PM
+Last Updated: 05/08/2019 6:01:39 PM
 
 
-Team Finalized: 2870  /  4120
+Team Finalized: 2892  /  4120
 
-Delta: -1250
+Delta: -1228
 
 Attendance: 46 / 53	7 Absent
 
@@ -12,7 +12,7 @@ Attendance: 46 / 53	7 Absent
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-Finalized: 20 / 60	Delta: -40
+Finalized: 23 / 60	Delta: -37
 __________________________________________________
 
 tricia.a.charles
@@ -30,7 +30,7 @@ Finalized: 30 / 110	Delta: -80
 __________________________________________________
 
 deborah.aquino
-Finalized: 54 / 110	Delta: -56
+Finalized: 55 / 110	Delta: -55
 __________________________________________________
 
 geneva.blevins
@@ -92,11 +92,11 @@ Finalized: 21 / 40	Delta: -19
 __________________________________________________
 
 c.l.davis
-Finalized: 95 / 110	Delta: -15
+Finalized: 101 / 110	Delta: -9
 __________________________________________________
 
 claire.robertson
-Finalized: 55 / 110	Delta: -55
+Finalized: 58 / 110	Delta: -52
 __________________________________________________
 
 d.may
@@ -116,7 +116,7 @@ Finalized: 38 / 40	Delta: -2
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 172 / 110	Delta: 62
+Finalized: 178 / 110	Delta: 68
 __________________________________________________
 
 luis.r.figueroa
@@ -174,7 +174,7 @@ Finalized: 50 / 0	Delta: 50
 __________________________________________________
 
 kacey.b.hess
-Finalized: 57 / 110	Delta: -53
+Finalized: 59 / 110	Delta: -51
 __________________________________________________
 
 kathy.tsai
@@ -198,7 +198,7 @@ Finalized: 51 / 0	Delta: 51
 __________________________________________________
 
 r.tropia
-Finalized: 45 / 110	Delta: -65
+Finalized: 46 / 110	Delta: -64
 __________________________________________________
 
 russell.sparks
