@@ -1,9 +1,9 @@
-Last Updated: 05/08/2019 5:32:18 PM
+Last Updated: 05/08/2019 5:46:38 PM
 
 
-Team Finalized: 2852  /  4120
+Team Finalized: 2870  /  4120
 
-Delta: -1268
+Delta: -1250
 
 Attendance: 46 / 53	7 Absent
 
@@ -12,7 +12,7 @@ Attendance: 46 / 53	7 Absent
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-Finalized: 19 / 60	Delta: -41
+Finalized: 20 / 60	Delta: -40
 __________________________________________________
 
 tricia.a.charles
@@ -30,7 +30,7 @@ Finalized: 30 / 110	Delta: -80
 __________________________________________________
 
 deborah.aquino
-Finalized: 51 / 110	Delta: -59
+Finalized: 54 / 110	Delta: -56
 __________________________________________________
 
 geneva.blevins
@@ -38,7 +38,7 @@ ABSENT
 __________________________________________________
 
 j.shepherd
-Finalized: 37 / 110	Delta: -73
+Finalized: 38 / 110	Delta: -72
 __________________________________________________
 
 janet.brookshire
@@ -92,11 +92,11 @@ Finalized: 21 / 40	Delta: -19
 __________________________________________________
 
 c.l.davis
-Finalized: 91 / 110	Delta: -19
+Finalized: 95 / 110	Delta: -15
 __________________________________________________
 
 claire.robertson
-Finalized: 53 / 110	Delta: -57
+Finalized: 55 / 110	Delta: -55
 __________________________________________________
 
 d.may
@@ -104,7 +104,7 @@ Finalized: 60 / 60	Delta: 0
 __________________________________________________
 
 e.h.dasilveira
-Finalized: 25 / 60	Delta: -35
+Finalized: 26 / 60	Delta: -34
 __________________________________________________
 
 heather.baker.flatt
@@ -174,7 +174,7 @@ Finalized: 50 / 0	Delta: 50
 __________________________________________________
 
 kacey.b.hess
-Finalized: 54 / 110	Delta: -56
+Finalized: 57 / 110	Delta: -53
 __________________________________________________
 
 kathy.tsai
@@ -198,7 +198,7 @@ Finalized: 51 / 0	Delta: 51
 __________________________________________________
 
 r.tropia
-Finalized: 43 / 110	Delta: -67
+Finalized: 45 / 110	Delta: -65
 __________________________________________________
 
 russell.sparks
