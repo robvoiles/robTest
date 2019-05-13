@@ -1,9 +1,9 @@
-Last Updated: 05/13/2019 5:01:28 PM
+Last Updated: 05/13/2019 5:16:33 PM
 
 
-Team Finalized: 3370  /  4120
+Team Finalized: 3430  /  4120
 
-Delta: -750
+Delta: -690
 
 Attendance: 45 / 52	7 Absent
 
@@ -12,7 +12,7 @@ Attendance: 45 / 52	7 Absent
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-Finalized: 30 / 60	Delta: -30
+Finalized: 32 / 60	Delta: -28
 __________________________________________________
 
 tricia.a.charles
@@ -30,7 +30,7 @@ ABSENT
 __________________________________________________
 
 deborah.aquino
-Finalized: 58 / 110	Delta: -52
+Finalized: 61 / 110	Delta: -49
 __________________________________________________
 
 geneva.blevins
@@ -66,7 +66,7 @@ Finalized: 50 / 110	Delta: -60
 __________________________________________________
 
 payton.cleveland
-Finalized: 61 / 110	Delta: -49
+Finalized: 62 / 110	Delta: -48
 __________________________________________________
 
 robin.croft
@@ -76,23 +76,23 @@ __________________________________________________
 ****************************NewYork****************************
 
 amanda.hotchkiss
-Finalized: 84 / 40	Delta: 44
+Finalized: 87 / 40	Delta: 47
 __________________________________________________
 
 ashley.welch
-Finalized: 141 / 110	Delta: 31
+Finalized: 142 / 110	Delta: 32
 __________________________________________________
 
 brianna.r.weiand
-Finalized: 85 / 60	Delta: 25
+Finalized: 95 / 60	Delta: 35
 __________________________________________________
 
 britney.l.anderson
-Finalized: 46 / 40	Delta: 6
+Finalized: 47 / 40	Delta: 7
 __________________________________________________
 
 c.l.davis
-Finalized: 91 / 110	Delta: -19
+Finalized: 93 / 110	Delta: -17
 __________________________________________________
 
 claire.robertson
@@ -100,27 +100,27 @@ ABSENT
 __________________________________________________
 
 d.may
-Finalized: 57 / 60	Delta: -3
+Finalized: 60 / 60	Delta: 0
 __________________________________________________
 
 e.h.dasilveira
-Finalized: 55 / 60	Delta: -5
+Finalized: 62 / 60	Delta: 2
 __________________________________________________
 
 heather.baker.flatt
-Finalized: 67 / 110	Delta: -43
+Finalized: 68 / 110	Delta: -42
 __________________________________________________
 
 kelly.crotty
-Finalized: 51 / 40	Delta: 11
+Finalized: 52 / 40	Delta: 12
 __________________________________________________
 
 lindsey.mcknight
-Finalized: 159 / 110	Delta: 49
+Finalized: 167 / 110	Delta: 57
 __________________________________________________
 
 luis.r.figueroa
-Finalized: 49 / 40	Delta: 9
+Finalized: 50 / 40	Delta: 10
 __________________________________________________
 
 rachel.payne
@@ -142,15 +142,15 @@ __________________________________________________
 ****************************Tennessee****************************
 
 anand.jose
-Finalized: 39 / 0	Delta: 39
+Finalized: 40 / 0	Delta: 40
 __________________________________________________
 
 angelia.c.clabough
-Finalized: 66 / 60	Delta: 6
+Finalized: 68 / 60	Delta: 8
 __________________________________________________
 
 connie.yu
-Finalized: 36 / 0	Delta: 36
+Finalized: 37 / 0	Delta: 37
 __________________________________________________
 
 daniel.worley
@@ -174,11 +174,11 @@ Finalized: 64 / 0	Delta: 64
 __________________________________________________
 
 kacey.b.hess
-Finalized: 28 / 110	Delta: -82
+Finalized: 29 / 110	Delta: -81
 __________________________________________________
 
 kathy.tsai
-Finalized: 43 / 0	Delta: 43
+Finalized: 45 / 0	Delta: 45
 __________________________________________________
 
 kirsten.kidd
@@ -190,11 +190,11 @@ ABSENT
 __________________________________________________
 
 melissa.usry
-Finalized: 107 / 110	Delta: -3
+Finalized: 108 / 110	Delta: -2
 __________________________________________________
 
 oliver.bebber
-Finalized: 55 / 0	Delta: 55
+Finalized: 59 / 0	Delta: 59
 __________________________________________________
 
 r.tropia
@@ -216,7 +216,7 @@ __________________________________________________
 ****************************Washington****************************
 
 a.a.weaver
-Finalized: 57 / 60	Delta: -3
+Finalized: 60 / 60	Delta: 0
 __________________________________________________
 
 monique.reynolds
