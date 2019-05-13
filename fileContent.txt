@@ -1,9 +1,9 @@
-Last Updated: 05/13/2019 5:31:27 PM
+Last Updated: 05/13/2019 5:46:35 PM
 
 
-Team Finalized: 3474  /  4120
+Team Finalized: 3483  /  4120
 
-Delta: -646
+Delta: -637
 
 Attendance: 45 / 52	7 Absent
 
@@ -30,7 +30,7 @@ ABSENT
 __________________________________________________
 
 deborah.aquino
-Finalized: 61 / 110	Delta: -49
+Finalized: 62 / 110	Delta: -48
 __________________________________________________
 
 geneva.blevins
@@ -38,7 +38,7 @@ ABSENT
 __________________________________________________
 
 j.shepherd
-Finalized: 50 / 110	Delta: -60
+Finalized: 51 / 110	Delta: -59
 __________________________________________________
 
 janet.brookshire
@@ -92,7 +92,7 @@ Finalized: 47 / 40	Delta: 7
 __________________________________________________
 
 c.l.davis
-Finalized: 93 / 110	Delta: -17
+Finalized: 95 / 110	Delta: -15
 __________________________________________________
 
 claire.robertson
@@ -104,7 +104,7 @@ Finalized: 60 / 60	Delta: 0
 __________________________________________________
 
 e.h.dasilveira
-Finalized: 66 / 60	Delta: 6
+Finalized: 67 / 60	Delta: 7
 __________________________________________________
 
 heather.baker.flatt
@@ -120,7 +120,7 @@ Finalized: 173 / 110	Delta: 63
 __________________________________________________
 
 luis.r.figueroa
-Finalized: 52 / 40	Delta: 12
+Finalized: 53 / 40	Delta: 13
 __________________________________________________
 
 rachel.payne
@@ -198,7 +198,7 @@ Finalized: 62 / 0	Delta: 62
 __________________________________________________
 
 r.tropia
-Finalized: 73 / 110	Delta: -37
+Finalized: 76 / 110	Delta: -34
 __________________________________________________
 
 russell.sparks
