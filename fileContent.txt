@@ -1,9 +1,9 @@
-Last Updated: 05/13/2019 6:01:29 PM
+Last Updated: 05/13/2019 6:16:44 PM
 
 
-Team Finalized: 3497  /  4120
+Team Finalized: 3498  /  4120
 
-Delta: -623
+Delta: -622
 
 Attendance: 45 / 52	7 Absent
 
@@ -198,7 +198,7 @@ Finalized: 62 / 0	Delta: 62
 __________________________________________________
 
 r.tropia
-Finalized: 78 / 110	Delta: -32
+Finalized: 79 / 110	Delta: -31
 __________________________________________________
 
 russell.sparks
