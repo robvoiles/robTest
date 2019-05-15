@@ -1,9 +1,9 @@
-Last Updated: 05/15/2019 4:17:06 PM
+Last Updated: 05/15/2019 4:31:48 PM
 
 
-Team Finalized: 3099  /  4120
+Team Finalized: 3119  /  4120
 
-Delta: -1021
+Delta: -1001
 
 Attendance: 50 / 52	2 Absent
 
@@ -12,7 +12,7 @@ Attendance: 50 / 52	2 Absent
 ****************************Kansas****************************
 
 abirami.a.prabakaran
-Finalized: 41 / 60	Delta: -19
+Finalized: 42 / 60	Delta: -18
 __________________________________________________
 
 tricia.a.charles
@@ -22,7 +22,7 @@ __________________________________________________
 ****************************Louisiana****************************
 
 amber.basgall
-Finalized: 56 / 110	Delta: -54
+Finalized: 57 / 110	Delta: -53
 __________________________________________________
 
 cairra.farr
@@ -62,7 +62,7 @@ Finalized: 38 / 110	Delta: -72
 __________________________________________________
 
 nathanial.c.newman
-Finalized: 40 / 110	Delta: -70
+Finalized: 41 / 110	Delta: -69
 __________________________________________________
 
 payton.cleveland
@@ -80,7 +80,7 @@ Finalized: 78 / 40	Delta: 38
 __________________________________________________
 
 ashley.welch
-Finalized: 88 / 110	Delta: -22
+Finalized: 91 / 110	Delta: -19
 __________________________________________________
 
 brianna.r.weiand
@@ -108,7 +108,7 @@ Finalized: 47 / 60	Delta: -13
 __________________________________________________
 
 heather.baker.flatt
-Finalized: 53 / 110	Delta: -57
+Finalized: 54 / 110	Delta: -56
 __________________________________________________
 
 kelly.crotty
@@ -136,7 +136,7 @@ Finalized: 54 / 60	Delta: -6
 __________________________________________________
 
 yvonne.mcgriff
-Finalized: 118 / 110	Delta: 8
+Finalized: 127 / 110	Delta: 17
 __________________________________________________
 
 ****************************Tennessee****************************
@@ -162,7 +162,7 @@ Finalized: 48 / 0	Delta: 48
 __________________________________________________
 
 elizabeth.weaver
-Finalized: 34 / 110	Delta: -76
+Finalized: 35 / 110	Delta: -75
 __________________________________________________
 
 heather.buckner
@@ -210,7 +210,7 @@ Finalized: 44 / 80	Delta: -36
 __________________________________________________
 
 tyrisha.lyons
-Finalized: 55 / 0	Delta: 55
+Finalized: 56 / 0	Delta: 56
 __________________________________________________
 
 ****************************Washington****************************
